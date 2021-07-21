@@ -1,0 +1,1 @@
+# AdventureWorks-SQL-Querry-College-HW-Num.-1-
